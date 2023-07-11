@@ -200,12 +200,17 @@ header {
   font-size: 1.3em;
   padding: 10px 0 10px 0;
 }
+
 .customer-review-text p {
   color: rgba(39, 39, 39, 0.6);
   font-size: 0.9em;
   font-weight: 400;
   font-style: italic;
   line-height: 20px;
+}
+.cs-review-star {
+  color: #ffdf00 !important;
+  margin-bottom: 10px;
 }
 .customer-review-content {
   width: 273px;
