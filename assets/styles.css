@@ -175,6 +175,46 @@ header {
   max-width: 100%;
 }
 
+/* customer review styles  */
+#customer-review {
+  margin-top: 100px;
+}
+.customer-review-details h1 {
+  margin-bottom: 25px;
+}
+.customer-review-details p {
+  max-width: 470px;
+  margin: 0 auto;
+  line-height: 25px;
+  margin-bottom: 25px;
+}
+.customer-review-content-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.customer-review-text {
+  text-align: center;
+}
+.customer-review-text h3 {
+  font-size: 1.3em;
+  padding: 10px 0 10px 0;
+}
+.customer-review-text p {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 0.9em;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 20px;
+}
+.customer-review-content {
+  width: 273px;
+}
+
+.customer-review-image img {
+  max-width: 100%;
+}
+
 /* instagram styles */
 #instagram {
   margin-top: 100px;
