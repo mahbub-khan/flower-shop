@@ -140,6 +140,29 @@ header {
   color: #272727;
 }
 
+/* specialities styles  */
+#specialities {
+  margin-top: 100px;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  text-align: center;
+}
+.specialities-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.specialities-content {
+  width: 370px;
+  padding: 50px 50px;
+}
+.specialities-content p {
+  font-weight: 700;
+  font-size: 1.2em;
+  margin-top: 25px;
+  color: rgba(39, 39, 39, 0.8);
+}
+
 /* Deals styles */
 #deals {
   margin-top: 100px;
