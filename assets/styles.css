@@ -25,7 +25,7 @@
 }
 
 .btn-primary {
-  border: 0px;
+  border: 2px solid #e55473;
   border-radius: 5px;
   background-color: #e55473;
   color: #fff;
@@ -35,6 +35,8 @@
 }
 .btn-primary:hover {
   cursor: pointer;
+  background-color: #fff;
+  color: #e55473;
 }
 
 /* header styles */
@@ -281,7 +283,7 @@ header {
   margin-bottom: 15px;
 }
 .subscribe-form input[type="email"] {
-  padding: 16px;
+  padding: 19px;
   width: 400px;
   border: 0px;
   border-radius: 5px;
